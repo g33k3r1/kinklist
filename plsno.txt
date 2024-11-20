@@ -1,8 +1,7 @@
 # Body Part Size
-(Small, Large)
+(Small, Medium, Large)
 * Asses
 * Cocks
-* Balls
 * Breasts
 
 #Bodies
@@ -674,72 +673,4 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 * Hair Pulling
 ? The act of pulling or tugging on another character's hair, or being the recipient of such.
 
-# Blood & Gore / Torture / Death
-(General)
-* Abrasions
-? Engaging in a situation in which at least one character will receive abrasions, defined as scrapes that are at their mildest in severity capable of causing bleeding; typically administered via rough or coarse objects, such as sandpaper or cement.
-* Bloodplay
-? Pertains to the inclusion of blood or the retrieval of blood in any form in a sexual context, or engaging in acts which will draw blood.
-* Breast/Nipple Torture
-? A situation in which at least one character's breasts or nipples will be the subject of physical, non-sexual pain of an extended duration.
-* Burning
-? A situation in which at least one character will be burned.
-* Castration
-? An action where the testicles are removed or disabled, whether by surgical, chemical or magical means; sometimes also refers to removing or disabling the ovaries in those who have them.
-* Death
-? A situation in which a character will die at any point by any means.
-* Emasculation
-? The act whereby the genitalia are removed by magical or surgical means, usually the penis and/or the testicles. May also imply humiliation; e.g. to render a male less of a man.
-* Genital Torture
-? Engaging in an RP in which at least one character's genitals will be given negative attention, the intent of which to be to cause physical pain.
-* Impalement
-? Engaging in the act of being penetrated by an object from one orifice and having it extend out of another orifice in a typically non-fatal manner.
-* Menses
-? Engaging in an RP in which female menstruation will be applied to the sexual context of a scene.
-* Mutilation
-? The act of physically damaging or otherwise causing irreparable change and/or harm to a character in an RP, typically by the use of cutting, stabbing or contact objects; often exceptionally painful.
-* Necrophilia
-? The act of having sex with a dead, or otherwise unconscious or inanimate, character that was once alive, or, theoretically, receiving such actions.
-* Non-Sexual Pain
-? Refers to either the administering and/or receiving of pain that is not derived through sexual activity and does not cause sexual gratification for the recipient, often interpreted to mean pain that is located in non-sexual parts of one's body.
-* Nonsexual Torture
-? The act of causing or receiving extended scenes of pain due to acts that are not of a sexual nature, or giving or being the recipient of psychological abuse for extended periods of time or at a great degree of intensity.
-* Nullification
-? The removal of any body part.
-* Piercing
-? The act of piercing a character's body, typically in a painful manner, and often in a sexual or exceptionally sensitive location on the person's body, or having one's own body pierced.
-* Sexual Torture
-? Torture that is sexual in nature, or greatly harms one sexually.
-* Swallowing Blood
-? The act of orally consuming blood.
 
-#Meta
-(Self, Partner)
-* First Person
-* Third Person
-* Short Post Length (~1-3 sentences)
-* Medium Post Length (~3-7 sentences)
-* Long Post Length (~2-4 paragraphs)
-* Story (3+ paragraphs)
-* Dynamic Post Length
-
-#Medium
-(General)
-* Skype
-* Kik
-* Reddit
-* E-Mail
-* Discord
-* Other
-
-#Time-Scale
-(Self, Partner)
-* Short-Term Scenes
-* Medium-Term Scenes
-* Long-Term Scenes
-* Quick Replies (0~10 mins)
-* Fast Replies (10~30 mins)
-* Normal Replies (30min ~ 2hours)
-* Slow Replies (2~8 hours)
-* Glacial Replies (8-24 hours)
-* Occasional Replies (24+ hours)
